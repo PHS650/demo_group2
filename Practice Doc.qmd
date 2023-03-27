@@ -7,3 +7,5 @@ editor: visual
 ## Hello - I was here! \<3 Zoe
 
 Hello! I was here too. Aly
+
+We're doing amazing! GitHub masters, already.
